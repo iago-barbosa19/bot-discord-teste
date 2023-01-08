@@ -1,0 +1,6 @@
+*.log
+content/*
+.vscode
+**/__pycache__/**
+/temp
+appsettings.json
