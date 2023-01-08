@@ -1,6 +1,12 @@
 # Discord Bot
 > Esse código foi feito em Python, na versão 3.11
 >
+> Esse repositório está com poucos commits se comparado ao original, pois o original tinha no appsettings a minha chave pessoal do bot do discord,
+> então foi necessário criar um  repositório novo.
+>
+> Também é necessário ter em mente que é para criar um arquivo "appsettings.json" da mesma forma que o disponibilizado como modelo, 
+> para que possa fazer as configurações básicas do software.
+>
 > Para o Software funcionar na mais perfeita ordem, é necessário/recomendado que as seguintes dependência sejam instaladas.
 >
 > Dependências:
